@@ -5,4 +5,4 @@ A pre-trained model for testing:https://drive.google.com/file/d/1z9oAwv2clwXN8Jd
 
 Dataset used:http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 
-Link to view only colab notebook:http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
+Link to view only colab notebook:https://colab.research.google.com/drive/1wqN89NYQ_Z0nha1EIrqupeTR4k0TPh1o
