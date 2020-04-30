@@ -7,7 +7,7 @@ Dataset used:http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 
 Link to view only colab notebook:https://colab.research.google.com/drive/1wqN89NYQ_Z0nha1EIrqupeTR4k0TPh1o
 
-Mobilenet-V2 is used as the base network. First 100 layers are freezed. Used batchnorm and dropout. Callback monitors validation loss.
+Mobilenet-V2 is used as the base network. First 100 layers are freezed. Used dropout at bottleneck. Callback monitors validation loss.
 
 Test accuracy:0.9981
 
