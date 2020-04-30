@@ -12,3 +12,7 @@ Mobilenet-V2 is used as the base network. First 100 layers are freezed. Used bat
 Test accuracy:0.9981
 
 Test loss:0.0071
+
+# To-do
+
+Code for prediction.
