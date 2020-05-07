@@ -9,9 +9,9 @@ Link to view only colab notebook:https://colab.research.google.com/drive/1wqN89N
 
 Mobilenet-V2 is used as the base network. First 100 layers are freezed. Used dropout at bottleneck. Callback monitors validation loss.
 
-Test accuracy:0.9981
+Test accuracy:0.5396188497543335
 
-Test loss:0.0071
+Test loss:4.979988098144531
 
 # To-do
 
